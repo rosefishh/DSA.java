@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "bubblesort",
+            "request": "launch",
+            "mainClass": "bubblesort",
+            "projectName": "DSA-striver_c8b39558"
+        },
+        {
+            "type": "java",
             "name": "selectionsortsort",
             "request": "launch",
             "mainClass": "sorting.selectionsortsort",
