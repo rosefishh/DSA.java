@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "insertionsort",
+            "request": "launch",
+            "mainClass": "recursion.insertionsort",
+            "projectName": "DSA-striver_c8b39558"
+        },
+        {
+            "type": "java",
+            "name": "q1",
+            "request": "launch",
+            "mainClass": "recursion.q1",
+            "projectName": "DSA-striver_c8b39558"
+        },
+        {
+            "type": "java",
+            "name": "insertionsort",
+            "request": "launch",
+            "mainClass": "sortingtypes.insertionsort",
+            "projectName": "DSA-striver_c8b39558"
+        },
+        {
+            "type": "java",
+            "name": "insertionsort",
+            "request": "launch",
+            "mainClass": "insertionsort",
+            "projectName": "DSA-striver_c8b39558"
+        },
+        {
+            "type": "java",
+            "name": "bubblesort",
+            "request": "launch",
+            "mainClass": "sortingtypes.bubblesort",
+            "projectName": "DSA-striver_c8b39558"
+        },
+        {
+            "type": "java",
             "name": "bubblesort",
             "request": "launch",
             "mainClass": "bubblesort",
