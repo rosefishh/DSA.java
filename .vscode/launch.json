@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "nameheight",
+            "request": "launch",
+            "mainClass": "nameheight",
+            "projectName": "DSA-striver_c8b39558"
+        },
+        {
+            "type": "java",
+            "name": "nameheight",
+            "request": "launch",
+            "mainClass": "sortingprac.nameheight",
+            "projectName": "DSA-striver_c8b39558"
+        },
+        {
+            "type": "java",
             "name": "insertionsort",
             "request": "launch",
             "mainClass": "recursion.insertionsort",
