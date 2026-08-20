@@ -9,7 +9,7 @@ public class nameheight {
 
         for(int i=0;i<=h.length-2;i++){
             int max = i;
-            for(int j=i;j<=h.length-1;j++){
+            for(int j=i+1;j<=h.length-1;j++){
                 if(h[j]>h[max]){
                     max =j;
                 }
