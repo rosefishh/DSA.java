@@ -3,7 +3,7 @@ public class recursivebubblesort {
         int [] arr = {4,3,2,5,1};
         bubble(arr, arr.length);
         for(int i: arr){
-            System.out.println(i + " ");
+            System.out.print(i + " ");
         }
     }
 
